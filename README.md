@@ -1,16 +1,11 @@
-### Hi there, I'm [Prathmesh!](https://prathmesh.netlify.app/) 👋
+## Hi there, I'm [Prathmesh!](https://prathmesh.netlify.app/) 👋
 
-<!--
-**prathmeshkhandelwal1/prathmeshkhandelwal1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Java
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m a sophomore at IIITV persuing Information Technology.
+- 🌱 Nowdays I'm learning Javascript and DSA.
+- 👯 I’m looking to collaborate on Nodejs and react based projects
+- 💬 I write Javascript for dev and C++ for competitive programming, So ask me about that.
+- ⚡ Fun fact: Other than programming, I love watching anime.
+
