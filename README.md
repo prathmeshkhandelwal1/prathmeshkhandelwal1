@@ -1,5 +1,7 @@
 ## Hi there, I'm [Prathmesh!](https://prathmesh.netlify.app/) 👋
 
+<img src="https://64.media.tumblr.com/1d9f2f81681d85ddd1afb6067f282411/tumblr_oqyddmuswj1r2hy3ro1_540.gifv" width="250" align='right'>
+
 
 Here are some ideas to get you started:
 
