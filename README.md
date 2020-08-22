@@ -1,4 +1,4 @@
-## Hi there, I'm [Prathmesh!](https://prathmesh.netlify.app/) 👋
+## Hey! there, I'm [Prathmesh!](https://prathmesh.netlify.app/) 👋
 
 <img src="https://64.media.tumblr.com/fe7e568e1d4c38e246de652a8040a8c7/tumblr_oou4az5pWZ1vtm42eo1_540.gifv" width="300" align='right'>
 
