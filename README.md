@@ -20,5 +20,14 @@ Here are some ideas to get you started:
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Next JS" width="26px" src="https://user-images.githubusercontent.com/42104907/89409062-1268f000-d73f-11ea-9791-82fdb2dbd30c.png" />
 
+<br/>
+<br/>
+
+
+<a href="https://www.linkedin.com/in/prathmesh-khandelwal-337b651a2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prathmeshkhandelwal1&hide_border=true&show_icons=true&include_all_commits=true" alt="Prathmesh's github stats" />
+</a>
+<a href="https://twitter.com/PrathmeshKhand7">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmeshkhandelwal1&hide=html,css&layout=compact" />
+</a>
