@@ -25,7 +25,7 @@
 
 
 ![Prathmesh's github stats](https://github-readme-stats.vercel.app/api?username=prathmeshkhandelwal1&show_icons=true&theme=radical)
-<img align="center" src="https://readme.prathmesh.dev/api?username=prathmeshkhandelwal1&show_icons=true&include_all_commits=true&theme=dark" alt="Prathmesh's GitHub stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=prathmeshkhandelwal1&hide_border=true&show_icons=true&include_all_commits=true" alt="Prathmesh's github stats" />
 
 <br/>
 <br/>
