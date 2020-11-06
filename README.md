@@ -23,7 +23,7 @@
 <br/>
 <br/>
 
-![Prathmesh's github stats](https://github-readme-stats.vercel.app/api?username=prathmeshkhandelwal1&show_icons=true&theme=radical)
+![My github stats](https://github-readme-stats.vercel.app/api?username=prathmeshkhandelwal&show_icons=true&theme=synthwave)
 
 <br/>
 <br/>
