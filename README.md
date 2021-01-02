@@ -1,4 +1,4 @@
-## Hey! there, I'm [Prathmesh!](https://prathmesh.netlify.app/) 👋
+## Hey! there, I'm [Prathmesh!](https://prathmesh.me/) 👋
 
 <img src="https://media1.tenor.com/images/9d0cb0eda3bece076b73f488a52238f5/tenor.gif" width="300" align='right'>
 <br/>
