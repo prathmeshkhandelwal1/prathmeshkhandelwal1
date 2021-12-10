@@ -3,10 +3,10 @@
 <img src="https://media1.tenor.com/images/9d0cb0eda3bece076b73f488a52238f5/tenor.gif" width="300" align='right'>
 <br/>
 
-- 🔭 I’m a sophomore at IIITV persuing Information Technology.
-- 🌱 Nowdays I'm learning Javascript and DSA.
-- 👯 I’m looking to collaborate on Nodejs and react based projects
-- 💬 I write Javascript for dev and C++ for competitive programming.
+- 🔭 I’m a third-year student at IIITV persuing Information Technology.
+- 🌱 Proficient in working in Typescript, Solidity.  
+- 👯 I’m looking to collaborate on technologies wandering around web3 world.
+- 💬 Working as a Full-stack intern at NonceBlox, Previously worked as SDE intern at Bottle Co.
 - ⚡ Fun fact: Other than programming, I love watching anime.
 
 
