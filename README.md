@@ -6,7 +6,7 @@
 - 🔭 I’m a third-year student at IIITV persuing Information Technology.
 - 🌱 Proficient in working with Typescript, Solidity.  
 - 👯 I’m looking to collaborate on technologies wandering around web3 world.
-- 💬 Working as a Full-stack intern at NonceBlox, Previously worked as SDE intern at Bottle Co.
+- 💬 Working as a SDE intern at EPNS, Previously worked as Intern at Nonceblox, SDE intern at Bottle Co.
 - ⚡ Fun fact: Other than programming, I love watching anime.
 
 
