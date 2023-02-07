@@ -4,7 +4,7 @@
 <br/>
 
 - 🔭 I’m a final-year student at IIITV persuing Information Technology.
-- 🌱 Proficient in working with Typescript, Solidity.  
+- 🌱 Proficient in working with Typescript, Solidity, Rust.  
 - 👯 I’m looking to collaborate on technologies wandering around web3 world.
 - 💬 Working as a Software Engineer at EPNS, Previously worked as Intern at Nonceblox, SDE intern at Bottle Co.
 - ⚡ Fun fact: Other than programming, I love watching anime.
