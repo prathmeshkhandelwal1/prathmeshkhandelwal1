@@ -3,10 +3,10 @@
 <img src="https://media1.tenor.com/images/9d0cb0eda3bece076b73f488a52238f5/tenor.gif" width="300" align='right'>
 <br/>
 
-- 🔭 I’m a final-year student at IIITV persuing Information Technology.
+- 🔭 I’m undergraduate from IIIT India.
 - 🌱 Proficient in working with Typescript, Solidity, Rust.  
 - 👯 I’m looking to collaborate on technologies wandering around web3 world.
-- 💬 Working as a Software Engineer at EPNS, Previously worked as Intern at Nonceblox, SDE intern at Bottle Co.
+- 💬 Working as a Software Engineer at Connext, Previously worked Software Engineer at Push Protocol, Intern at Nonceblox, SDE intern at Bottle Co.
 - ⚡ Fun fact: Other than programming, I love watching anime.
 
 
