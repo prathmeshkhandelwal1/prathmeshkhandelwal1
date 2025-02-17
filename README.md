@@ -6,7 +6,7 @@
 - 🔭 I’m undergraduate from IIIT India.
 - 🌱 Proficient in working with Typescript, Solidity, Rust.  
 - 👯 I’m looking to collaborate on technologies wandering around web3 world.
-- 💬 Working as a Software Engineer at Connext, Previously worked Software Engineer at Push Protocol, Intern at Nonceblox, SDE intern at Bottle Co.
+- 💬 Working as a Software Engineer at Connext, Previously worked as Software Engineer at Push Protocol, SDE at Nonceblox, SDE intern at Bottle Co.
 - ⚡ Fun fact: Other than programming, I love watching anime.
 
 
